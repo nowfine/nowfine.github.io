@@ -1,11 +1,11 @@
 # Site settings
-title: Nowfine
+title: NOW FINE plc
 email: nowfine.nf@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    Эта страница моя, тоесть nowfine. Между делом я решил заебенить себе
-    страничку. В самом деле, кому придет в голову читать то, что тут написано.
- baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://nowfine.github.io" # the base hostname & protocol for your site
+  just want to touch jekyll gem, никогда не буду блоггером,
+  да и не надо мне этого
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: iconco
 github_username:  nowfine
 
